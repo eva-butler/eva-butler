@@ -8,6 +8,8 @@ I'm a student at the University of Virginia with a passion for solving problems 
 
 🌱 Check out my Portfolio for all of my projects, skills, certificates, and achievements.
 
+💬 Access my [Notes]() repo to check out my notes on both UVA and online courses.
+
 <!--
 **eva-butler/eva-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
