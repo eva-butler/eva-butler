@@ -1,4 +1,6 @@
-## 👋 Hi there! I'm a student at the University of Virginia with a passion for solving problems and an interest in data science. Follow my journey as I apply my learning to real-world challenges and projects.
+## 👋 Hi there! I am Eva (like in Wall-E :dependabot:)! 
+
+I'm a student at the University of Virginia with a passion for solving problems and an interest in data science. Follow my journey as I apply my learning to real-world challenges and projects.
 
 🎮 When I'm not analyzing, you'll find me playing puzzle video games like Skyrim and The Talos Principle. They have both sparked and sustained my love for problem-solving.
 
