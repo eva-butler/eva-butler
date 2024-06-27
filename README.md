@@ -2,7 +2,7 @@
 
 I'm a student at the University of Virginia with a passion for solving problems and an interest in data science. Follow my journey as I apply my learning to real-world challenges and projects.
 
-🎮 When I'm not analyzing, you'll find me playing puzzle video games like Skyrim and The Talos Principle. They have both sparked and sustained my love for problem-solving.
+🎮 When I'm not analyzing, you'll find me playing puzzle video games like Skyrim and The Talos Principle. They have both sparked and sustained my love for problem-solving. I also love to fish and cook!
 
 🚀 I'm always eager to learn new skills and collaborate on exciting projects.
 
