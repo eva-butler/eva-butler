@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi there! I'm a student at the University of Virginia with a passion for solving problems and an interest in data science. Follow my journey as I apply my learning to real-world challenges and projects.
+
+🎮 When I'm not analyzing, you'll find me playing puzzle video games like Skyrim and The Talos Principle. They have both sparked and sustained my love for problem-solving.
+
+🚀 I'm always eager to learn new skills and collaborate on exciting projects.
+
+🌱 Check out my Portfolio for all of my projects, skills, certificates, and achievements.
 
 <!--
 **eva-butler/eva-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
