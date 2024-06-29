@@ -6,7 +6,7 @@ I'm a student at the University of Virginia with a passion for solving problems 
 
 🚀 I'm always eager to learn new skills and collaborate on exciting projects.
 
-🌱 Check out my [Portfolio](https://github.com/eva-butler/Portfolio) for all of my projects, micro projects, skills, course notes, and achievements.
+🌱 Check out my [Portfolio](https://github.com/eva-butler/Portfolio) for all of my projects, micro projects, skills, course notes, and certificates.
 
 💬 Access my [Notes](https://github.com/eva-butler/Notes) repo to check out my notes on both UVA and online courses.
 
