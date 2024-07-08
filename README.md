@@ -1,4 +1,4 @@
-## 👋 Hi there! I am Eva (like in Wall-E :dependabot:)! 
+## 👋 Hi there! I am Eva (like Wall-E :dependabot:)! 
 
 I'm a student at the University of Virginia with a passion for solving problems and an interest in data science. Follow my journey as I apply my learning to real-world challenges and projects.
 
